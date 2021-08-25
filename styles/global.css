@@ -11,7 +11,8 @@ html, body {
   font-family: var(--font-family);
   padding: 0;
   margin: 0;
-  background: #181818;
+  background: gray;
+  color: white;
 }
 
 @media (prefers-color-scheme: light) {
